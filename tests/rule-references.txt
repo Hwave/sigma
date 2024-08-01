@@ -3676,3 +3676,17 @@ https://www.socinvestigation.com/most-common-windows-event-ids-to-hunt-mind-map/
 https://www.cisco.com/en/US/docs/ios/security/command/reference/sec_a2.pdf
 https://www.phpied.com/make-your-javascript-a-windows-exe/
 https://docs.python.org/3/library/site.html
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#non-compliant-device-sign-in
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
+https://github.com/0xthirteen/SharpMove/
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#impossible-travel
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#things-to-monitor
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure#conditional-access
+https://learn.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy
+https://evasions.checkpoint.com/techniques/macos.html
+https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-smartscreen-flaw-to-drop-darkgate-malware/
+https://github.com/RhinoSecurityLabs/CVEs/blob/15cf4d86c83daa57b59eaa2542a0ed47ad3dc32d/CVE-2024-1212/CVE-2024-1212.py
+https://learn.microsoft.com/en-us/azure/defender-for-cloud/file-integrity-monitoring-overview#which-files-should-i-monitor
+https://learn.microsoft.com/en-us/defender-endpoint/configure-process-opened-file-exclusions-microsoft-defender-antivirus
+https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms766431(v=vs.85)
+https://defr0ggy.github.io/research/Abusing-Cloudflared-A-Proxy-Service-To-Host-Share-Applications/
